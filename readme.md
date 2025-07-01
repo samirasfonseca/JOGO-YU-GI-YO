@@ -6,7 +6,7 @@ Um jogo web interativo inspirado no universo de **Yu-Gi-Oh!**, utilizando as reg
 
 Clique abaixo para ver uma prévia do jogo em ação:
 
-[![Assista ao vídeo](https://youtu.be/FM340uBZ3zo)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+📽️ [`yugi.mp4`](./src//Yu-Gi-YO%20Jo-ken-po%20Edition%20-%20Google%20Chrome%202025-07-01%2009-52-58.mp4)
 
 ---
 
