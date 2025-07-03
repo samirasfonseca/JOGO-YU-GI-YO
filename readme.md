@@ -4,7 +4,10 @@ Um jogo web interativo inspirado no universo de **Yu-Gi-Oh!**, utilizando as reg
 
 ## 🎥 Demonstração do Jogo
 
-Clique abaixo para ver uma prévia do jogo em ação:
+![Texto alternativo](./yu.png)
+
+
+## Clique abaixo para ver uma prévia do jogo em ação:
 
 📽️ [`yugi.mp4`](./src//Yu-Gi-YO%20Jo-ken-po%20Edition%20-%20Google%20Chrome%202025-07-01%2009-52-58.mp4)
 
@@ -43,3 +46,12 @@ __Pedra vence Tesoura__
 __Tesoura vence Papel__
 **Papel vence Pedra**
 
+
+
+## 💻 Autor
+
+### Feito com 💙 por **_Samira_**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samira-santos-92364911a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samirasfonseca)
+
+---
